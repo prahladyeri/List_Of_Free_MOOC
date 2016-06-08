@@ -1,33 +1,32 @@
 Below is the list of all MOOC (Massive Online Open Courses) that offer a free *Certificate/Statement of Accomplishment* upon course completion.
 
-| ----------- | ---------- |
-| Course Name | Start Date |
-| ----------- | ---------- |
-| [CS101: Introduction to Computer Science I](https://learn.saylor.org/course/view.php?id=6) via *Saylor Academy* | self paced |
-| [CS102: Introduction to Computer Science II](https://learn.saylor.org/course/view.php?id=64) via *Saylor Academy*  | self paced |
-| [CS107: C++ Programming](https://learn.saylor.org/course/view.php?id=65) via *Saylor Academy* | self paced |
-| [CS201: Elementary Data Structures](https://learn.saylor.org/course/view.php?id=66) via *Saylor Academy* | self paced |
-| [CS202: Discrete Structures](https://learn.saylor.org/course/view.php?id=67)  via *Saylor Academy* | self paced |
-| [CS301: Computer Architecture](https://learn.saylor.org/course/view.php?id=71) via *Saylor Academy* | self paced |
-| [CS302: Software Engineering](https://learn.saylor.org/course/view.php?id=73) via *Saylor Academy* | self paced |
-| [CS303: Algorithms](https://learn.saylor.org/course/view.php?id=72) via *Saylor Academy* | self paced |
-| [CS304: Compilers](https://learn.saylor.org/course/view.php?id=74) via *Saylor Academy* | self paced |
-| [CS305 Web Development](https://learn.saylor.org/course/view.php?id=75) via *Saylor Academy* | self paced |
-| [CS401: Operating Systems](https://learn.saylor.org/course/view.php?id=94) via *Saylor Academy* | self paced |
-| [CS402: Computer Communications and Networks](https://learn.saylor.org/course/view.php?id=84) | self paced |
-| [CS403: Introduction to Modern Database Systems](https://learn.saylor.org/course/view.php?id=93)  | self paced |
-| [CS404: Programming Languages](https://learn.saylor.org/course/view.php?id=79) via *Saylor Academy* | self paced |
-| [CS405: Artificial Intelligence](https://learn.saylor.org/course/view.php?id=96) via *Saylor Academy* | self paced |
-| [CS406: Information Security](https://learn.saylor.org/course/view.php?id=92) via *Saylor Academy* | self paced |
-| [CS408: Advanced Artificial Intelligence](https://learn.saylor.org/course/view.php?id=81) | self paced |
-| [CS409: Cryptography](https://learn.saylor.org/course/view.php?id=90) via *Saylor Academy* | self paced |
-| [CS410: Advanced Databases](https://learn.saylor.org/course/view.php?id=91) via *Saylor Academy* | self paced |
-| [CS412: Mobile Applications Development](https://learn.saylor.org/course/view.php?id=95) via *Saylor Academy* | self paced |
-| [Learn HTML5 Programming From Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/) via *Udemy* | self paced |
-| [Behind and Beyond Big Data](http://online.stanford.edu/course/behind-and-beyond-big-data) via *online.stanford.edu* |  	April 18, 2016 	 |
-| [Careers in Media Technology](http://online.stanford.edu/course/careers-media-technology) via *online.stanford.edu* | February 2, 2016 |
-| [Concepts in Game Development](https://www.open2study.com/courses/concepts-in-game-development) via *open2study.com* | 30/05/2016 |
-| --- | --- |
+----------- | ----------
+Course Name | Start Date
+----------- | ----------
+[CS101: Introduction to Computer Science I](https://learn.saylor.org/course/view.php?id=6) via *Saylor Academy* | self paced
+[CS102: Introduction to Computer Science II](https://learn.saylor.org/course/view.php?id=64) via *Saylor Academy*  | self paced [CS107: C++ Programming](https://learn.saylor.org/course/view.php?id=65) via *Saylor Academy* | self paced
+[CS201: Elementary Data Structures](https://learn.saylor.org/course/view.php?id=66) via *Saylor Academy* | self paced
+[CS202: Discrete Structures](https://learn.saylor.org/course/view.php?id=67)  via *Saylor Academy* | self paced
+[CS301: Computer Architecture](https://learn.saylor.org/course/view.php?id=71) via *Saylor Academy* | self paced
+[CS302: Software Engineering](https://learn.saylor.org/course/view.php?id=73) via *Saylor Academy* | self paced
+[CS303: Algorithms](https://learn.saylor.org/course/view.php?id=72) via *Saylor Academy* | self paced
+[CS304: Compilers](https://learn.saylor.org/course/view.php?id=74) via *Saylor Academy* | self paced
+[CS305 Web Development](https://learn.saylor.org/course/view.php?id=75) via *Saylor Academy* | self paced
+[CS401: Operating Systems](https://learn.saylor.org/course/view.php?id=94) via *Saylor Academy* | self paced
+[CS402: Computer Communications and Networks](https://learn.saylor.org/course/view.php?id=84) | self paced
+[CS403: Introduction to Modern Database Systems](https://learn.saylor.org/course/view.php?id=93)  | self paced
+[CS404: Programming Languages](https://learn.saylor.org/course/view.php?id=79) via *Saylor Academy* | self paced
+[CS405: Artificial Intelligence](https://learn.saylor.org/course/view.php?id=96) via *Saylor Academy* | self paced
+[CS406: Information Security](https://learn.saylor.org/course/view.php?id=92) via *Saylor Academy* | self paced
+[CS408: Advanced Artificial Intelligence](https://learn.saylor.org/course/view.php?id=81) | self paced
+[CS409: Cryptography](https://learn.saylor.org/course/view.php?id=90) via *Saylor Academy* | self paced
+[CS410: Advanced Databases](https://learn.saylor.org/course/view.php?id=91) via *Saylor Academy* | self paced
+[CS412: Mobile Applications Development](https://learn.saylor.org/course/view.php?id=95) via *Saylor Academy* | self paced
+[Learn HTML5 Programming From Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/) via *Udemy* | self paced
+[Behind and Beyond Big Data](http://online.stanford.edu/course/behind-and-beyond-big-data) via *online.stanford.edu* |  	April 18, 2016
+[Careers in Media Technology](http://online.stanford.edu/course/careers-media-technology) via *online.stanford.edu* | February 2, 2016
+[Concepts in Game Development](https://www.open2study.com/courses/concepts-in-game-development) via *open2study.com* | 30/05/2016
+--- | ---
 
 
 **Provision of free certificate transcripts/statement of accomplishments in each Academy:**
