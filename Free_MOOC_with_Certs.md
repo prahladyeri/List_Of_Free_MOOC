@@ -1,7 +1,9 @@
 Below is the list of all MOOC (Massive Online Open Courses) that offer a free *Certificate/Statement of Accomplishment* upon course completion.
 
 
+| ----------- | ---------- |
 | Course Name | Start Date |
+| ----------- | ---------- |
 | [CS101: Introduction to Computer Science I](https://learn.saylor.org/course/view.php?id=6) via *Saylor Academy* | self paced |
 | [CS102: Introduction to Computer Science II](https://learn.saylor.org/course/view.php?id=64) via *Saylor Academy*  | self paced |
 | [CS107: C++ Programming](https://learn.saylor.org/course/view.php?id=65) via *Saylor Academy* | self paced |
@@ -26,6 +28,7 @@ Below is the list of all MOOC (Massive Online Open Courses) that offer a free *C
 | [Behind and Beyond Big Data](http://online.stanford.edu/course/behind-and-beyond-big-data) via *online.stanford.edu* | April 18, 2016	|
 | [Careers in Media Technology](http://online.stanford.edu/course/careers-media-technology) via *online.stanford.edu* | February 2, 2016 |
 | [Concepts in Game Development](https://www.open2study.com/courses/concepts-in-game-development) via *open2study.com* | 30/05/2016 |
+| ----------- | ---------- |
 
 
 **Provision of free certificate transcripts/statement of accomplishments in each Academy:**
