@@ -4,7 +4,8 @@ Below is the list of all MOOC (Massive Online Open Courses) that offer a free *C
 Course Name | Start Date
 ----------- | ----------
 [CS101: Introduction to Computer Science I](https://learn.saylor.org/course/view.php?id=6) via *Saylor Academy* | self paced
-[CS102: Introduction to Computer Science II](https://learn.saylor.org/course/view.php?id=64) via *Saylor Academy*  | self paced [CS107: C++ Programming](https://learn.saylor.org/course/view.php?id=65) via *Saylor Academy* | self paced
+[CS102: Introduction to Computer Science II](https://learn.saylor.org/course/view.php?id=64) via *Saylor Academy*  | self paced
+[CS107: C++ Programming](https://learn.saylor.org/course/view.php?id=65) via *Saylor Academy* | self paced
 [CS201: Elementary Data Structures](https://learn.saylor.org/course/view.php?id=66) via *Saylor Academy* | self paced
 [CS202: Discrete Structures](https://learn.saylor.org/course/view.php?id=67)  via *Saylor Academy* | self paced
 [CS301: Computer Architecture](https://learn.saylor.org/course/view.php?id=71) via *Saylor Academy* | self paced
