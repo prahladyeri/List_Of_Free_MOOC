@@ -26,7 +26,7 @@ CourseName | StartDate
 | [Learn HTML5 Programming From Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/) via *Udemy* | self paced |
 | [Behind and Beyond Big Data](http://online.stanford.edu/course/behind-and-beyond-big-data) via *online.stanford.edu* | April 18, 2016	|
 | [Careers in Media Technology](http://online.stanford.edu/course/careers-media-technology) via *online.stanford.edu* | February 2, 2016 |
-| [Concepts in Game Development](https://www.open2study.com/courses/concepts-in-game-development) via *open2study.com* | 30/05/2016 |
+| [Concepts in Game Development](https://www.open2study.com/courses/concepts-in-game-development) via *open2study.com* | May 30, 2016 |
 
 
 **Provision of free certificate transcripts/statement of accomplishments in each Academy:**
